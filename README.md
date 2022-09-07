@@ -5,10 +5,10 @@
 
 - 💻 I'm currently studying on with artificial intelligence at [Simurgai Lab](https://www.simurgai.com/).
 - 👨‍💻 I'm a 4th grade student at the department of Computer Engineering, and also I'm making double degree with Mechatronics Engineering, University of Karabuk.
-- 🖨️ I participate in,
-      Programming Languages I
-      Programming Languages II
-      Introduction to Machine Learning
+- 🖨️ I participate in,<br>
+      Programming Languages I <br>
+      Programming Languages II <br>
+      Introduction to Machine Learning<br>
       lectures as an assistant student of Assoc. Prof. Dr. Caner Özcan.
 - 💬 Ask me about C, Python, Data Science, Machine Learning and Deep Learning. 
 
