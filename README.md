@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhansevval" alt="ilhansevval" /> </p>
 
 - 💻 I'm currently studying on artificial intelligence at [Simurgai Lab](https://www.simurgai.com/).
-- 👨‍💻 I'm a 4th grade student at the department of Computer Engineering, and also I'm making double degree with Mechatronics Engineering, University of Karabuk.
+- 👨‍💻 I'm a 4th grade student at the department of Computer Engineering, and also I'm doing double degree with Mechatronics Engineering, University of Karabuk.
 - 🖨️ I participate in,<br>
       Programming Languages I <br>
       Programming Languages II <br>
